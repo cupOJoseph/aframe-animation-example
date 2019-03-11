@@ -1,2 +1,5 @@
-# aframe-animation-example
-results from an aframe intro workshop demonstrating simple animation, texture, and object features in webVR
+subway VR
+=================
+An example a-frame project showing off simple animation, objects, color, shaows, and textures.
+
+[Aframe.io](aframe.io)
